@@ -1,0 +1,48 @@
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+d:\users\cristian\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.vistaMenu.resources
+d:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaPreviaBatalla.resources
+d:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaTerreno.resources
+d:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaPrincipal.resources
+d:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaLogin.resources
+d:\Users\Cristian\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaIngresar.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaMenu.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.vistaPrevBatalla.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaPrincipal.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaIngresar.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaTerreno.resources
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ApplicationInsights.config
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WcfService2.dll
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WcfService2.pdb
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\krist\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaMenu.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.vistaPrevBatalla.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaPrincipal.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VistaIngresar.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.VistaTerreno.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\ApplicationInsights.config
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\WcfService2.dll
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\bin\Debug\WcfService2.pdb
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.vistaLogin.resources
+C:\Users\krist\Desktop\paradigmas\lab\lab4_19181897_Espinoza\lab4_191818970_Espinoza\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Vistas.vistaPerfil.resources
